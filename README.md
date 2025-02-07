@@ -12,11 +12,12 @@
 - **2024.12.17**: Initiate project.
 
 
-We summarized the data separately by location and region
-
-Region:
-https://github.com/skyerhxx/Awesome-Urban-Region-Representation-Learning
+We summarized the data separately by location and region.
 
 
 Location
 https://github.com/skyerhxx/Awesome-Location-Embedding
+
+Region:
+https://github.com/skyerhxx/Awesome-Urban-Region-Representation-Learning
+
